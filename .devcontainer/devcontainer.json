@@ -31,10 +31,5 @@
       ]
     }
   },
-  "portsAttributes": {},
-  "hostRequirements": {
-    "cpus": 8,
-    "memory": "16gb",
-    "storage": "64gb"
-  }
+  "portsAttributes": {}
 }
